@@ -1,4 +1,4 @@
-module github.com/majidkarimizadeh/sdk-modules/v1
+module github.com/majidkarimizadeh/sdk-modules
 
 go 1.22.9
 
