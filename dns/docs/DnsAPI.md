@@ -32,7 +32,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/majidkarimizadeh/sdk-modules"
+	openapiclient "github.com/majidkarimizadeh/sdk-modules/dns"
 )
 
 func main() {
@@ -102,7 +102,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/majidkarimizadeh/sdk-modules"
+	openapiclient "github.com/majidkarimizadeh/sdk-modules/dns"
 )
 
 func main() {
@@ -176,7 +176,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/majidkarimizadeh/sdk-modules"
+	openapiclient "github.com/majidkarimizadeh/sdk-modules/dns"
 )
 
 func main() {
@@ -242,7 +242,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/majidkarimizadeh/sdk-modules"
+	openapiclient "github.com/majidkarimizadeh/sdk-modules/dns"
 )
 
 func main() {
@@ -316,7 +316,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/majidkarimizadeh/sdk-modules"
+	openapiclient "github.com/majidkarimizadeh/sdk-modules/dns"
 )
 
 func main() {
@@ -384,7 +384,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/majidkarimizadeh/sdk-modules"
+	openapiclient "github.com/majidkarimizadeh/sdk-modules/dns"
 )
 
 func main() {
@@ -454,7 +454,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/majidkarimizadeh/sdk-modules"
+	openapiclient "github.com/majidkarimizadeh/sdk-modules/dns"
 )
 
 func main() {
@@ -532,7 +532,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/majidkarimizadeh/sdk-modules"
+	openapiclient "github.com/majidkarimizadeh/sdk-modules/dns"
 )
 
 func main() {
@@ -604,7 +604,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/majidkarimizadeh/sdk-modules"
+	openapiclient "github.com/majidkarimizadeh/sdk-modules/dns"
 )
 
 func main() {
@@ -676,7 +676,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/majidkarimizadeh/sdk-modules"
+	openapiclient "github.com/majidkarimizadeh/sdk-modules/dns"
 )
 
 func main() {

@@ -1,5 +1,4 @@
 .gitignore
-.openapi-generator-ignore
 .travis.yml
 README.md
 api/openapi.yaml
@@ -132,6 +131,8 @@ docs/UpdateServerCredentialOpts.md
 docs/UpdateServerReferenceOpts.md
 docs/Vlan.md
 git_push.sh
+go.mod
+go.sum
 model__metadata.go
 model_actions.go
 model_add_server_to_private_network_opts.go
@@ -257,5 +258,4 @@ model_update_server_credential_opts.go
 model_update_server_reference_opts.go
 model_vlan.go
 response.go
-test/api_dedicatedserver_test.go
 utils.go

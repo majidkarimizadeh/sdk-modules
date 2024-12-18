@@ -1,5 +1,4 @@
 .gitignore
-.openapi-generator-ignore
 .travis.yml
 README.md
 api/openapi.yaml
@@ -161,6 +160,8 @@ docs/VpsList.md
 docs/VpsPackType.md
 docs/VpsState.md
 git_push.sh
+go.mod
+go.sum
 model__metadata.go
 model__schemas_health_check_status.go
 model_attach_iso_opts.go
@@ -315,5 +316,4 @@ model_vps_list.go
 model_vps_pack_type.go
 model_vps_state.go
 response.go
-test/api_publiccloud_test.go
 utils.go

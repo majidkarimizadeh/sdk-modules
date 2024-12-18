@@ -1,5 +1,4 @@
 .gitignore
-.openapi-generator-ignore
 .travis.yml
 README.md
 api/openapi.yaml
@@ -17,6 +16,8 @@ docs/InvoiceAPI.md
 docs/LineItem.md
 docs/Metadata.md
 git_push.sh
+go.mod
+go.sum
 model__metadata.go
 model_contract_item.go
 model_credit.go
@@ -27,5 +28,4 @@ model_get_proforma_result.go
 model_invoice.go
 model_line_item.go
 response.go
-test/api_invoice_test.go
 utils.go

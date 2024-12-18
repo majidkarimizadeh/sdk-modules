@@ -1,5 +1,4 @@
 .gitignore
-.openapi-generator-ignore
 .travis.yml
 README.md
 api/openapi.yaml
@@ -15,6 +14,8 @@ docs/GetAggregationPackListResult.md
 docs/Metadata.md
 docs/NetworkPerformanceType.md
 git_push.sh
+go.mod
+go.sum
 model__metadata.go
 model_aggregation_pack.go
 model_aggregation_type.go
@@ -23,5 +24,4 @@ model_error_result.go
 model_get_aggregation_pack_list_result.go
 model_network_performance_type.go
 response.go
-test/api_aggregationpack_test.go
 utils.go

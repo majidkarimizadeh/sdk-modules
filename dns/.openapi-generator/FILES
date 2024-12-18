@@ -1,5 +1,4 @@
 .gitignore
-.openapi-generator-ignore
 .travis.yml
 README.md
 api/openapi.yaml
@@ -34,6 +33,8 @@ docs/UpdateResourceRecordSetsLdOpts.md
 docs/ValidateSet.md
 docs/ValidateZoneResult.md
 git_push.sh
+go.mod
+go.sum
 model_base_resource_record_set_list.go
 model_collection.go
 model_error_result.go
@@ -61,5 +62,4 @@ model_update_resource_record_sets_ld_opts.go
 model_validate_set.go
 model_validate_zone_result.go
 response.go
-test/api_dns_test.go
 utils.go

@@ -22,7 +22,7 @@ go get golang.org/x/net/context
 Put the package under your project folder and add the following in import:
 
 ```go
-import invoice "github.com/majidkarimizadeh/sdk-modules"
+import invoice "github.com/majidkarimizadeh/sdk-modules/invoice"
 ```
 
 To use a proxy, set the environment variable `HTTP_PROXY`:

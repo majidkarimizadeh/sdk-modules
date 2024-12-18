@@ -23,7 +23,7 @@ go get golang.org/x/net/context
 Put the package under your project folder and add the following in import:
 
 ```go
-import abuse "github.com/majidkarimizadeh/sdk-modules"
+import abuse "github.com/majidkarimizadeh/sdk-modules/abuse"
 ```
 
 To use a proxy, set the environment variable `HTTP_PROXY`:
