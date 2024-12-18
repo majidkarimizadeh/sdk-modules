@@ -14,7 +14,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 	"testing"
-	openapiclient "github.com/majidkarimizadeh/sdk-modules/abuse"
+	openapiclient "github.com/majidkarimizadeh/sdk-modules"
 )
 
 func Test_abuse_AbuseAPIService(t *testing.T) {

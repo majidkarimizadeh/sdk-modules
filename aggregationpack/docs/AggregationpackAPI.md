@@ -26,7 +26,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/majidkarimizadeh/sdk-modules/aggregationpack"
+	openapiclient "github.com/majidkarimizadeh/sdk-modules"
 )
 
 func main() {
@@ -96,7 +96,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/majidkarimizadeh/sdk-modules/aggregationpack"
+	openapiclient "github.com/majidkarimizadeh/sdk-modules"
 )
 
 func main() {

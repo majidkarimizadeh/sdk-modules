@@ -14,7 +14,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 	"testing"
-	openapiclient "github.com/majidkarimizadeh/sdk-modules/dns"
+	openapiclient "github.com/majidkarimizadeh/sdk-modules"
 )
 
 func Test_dns_DnsAPIService(t *testing.T) {

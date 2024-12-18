@@ -26,7 +26,7 @@ go get golang.org/x/net/context
 Put the package under your project folder and add the following in import:
 
 ```go
-import publiccloud "github.com/majidkarimizadeh/sdk-modules/publiccloud"
+import publiccloud "github.com/majidkarimizadeh/sdk-modules"
 ```
 
 To use a proxy, set the environment variable `HTTP_PROXY`:
